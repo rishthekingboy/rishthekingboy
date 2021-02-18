@@ -1,6 +1,6 @@
 ### Hey there 👋 I am Rishabh Singh !
 
-#### A Passionate Full-Stack Web Developer & UI/UX Enthusiast
+#### A Passionate Full-Stack Web Developer & Competitive Programmer
 
 
 
@@ -8,6 +8,8 @@
 
 I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
 - 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
+- 🔭 Practicing DSA and implement in C++.
+- 🔭 Taking intrest in Cyber Security.
 
 <h3 align="left">Let's Connect: 🚀</h3>
 <p align="left">
