@@ -1,4 +1,5 @@
-### Hey there 👋 I am Rishabh Singh !
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+## I am Rishabh Singh !
 
 #### A Passionate Full-Stack Web Developer & Competitive Programmer
 
@@ -20,11 +21,21 @@ ___
 <h3 align="left">Let's Connect: 🚀</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/rishthekingboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishthekingboy" height="30" width="40" /></a>
+
 <a href="https://instagram.com/rishthekingboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rishthekingboy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rishthekingboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rishthekingboy" height="30" width="40" /></a>
 <a href="https://dev.to/rishthekingboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rishthekingboy" height="30" width="40" /></a>
 
+
+
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rishthekingboy)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rishthekingboy)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rkrkumar021)](https://twitter.com/rishthekingboy)
+[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rkrkumar021/)](https://medium.com/@rishthekingboy)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rishmark98@gmail.com)
+&nbsp;
 </p>
 
 
